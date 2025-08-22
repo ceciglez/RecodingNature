@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Voronoi2",
+			"path": "../Voronoi2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
